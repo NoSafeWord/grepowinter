@@ -1,0 +1,2002 @@
+1.hét - Pajzsos szánkó:
+
+Felhasznált pontok: 1
+Jósolt legjobb arány: [0, 1, 0]
+Jósolt legjobb eredmény: 525.0
+Rng 5%: 498.75 - 551.25
+
+Felhasznált pontok: 2
+Jósolt legjobb arány: [0, 1, 1]
+Jósolt legjobb eredmény: 545.0
+Rng 5%: 517.75 - 572.25
+
+Felhasznált pontok: 3
+Jósolt legjobb arány: [1, 1, 1]
+Jósolt legjobb eredmény: 560.0
+Rng 5%: 532.0 - 588.0
+
+Felhasznált pontok: 4
+Jósolt legjobb arány: [2, 1, 1]
+Jósolt legjobb eredmény: 572.9909897461042
+Rng 5%: 544.341440258799 - 601.6405392334094
+
+Felhasznált pontok: 5
+Jósolt legjobb arány: [2, 2, 1]
+Jósolt legjobb eredmény: 585.8839039088641
+Rng 5%: 556.5897087134209 - 615.1780991043073
+
+Felhasznált pontok: 6
+Jósolt legjobb arány: [2, 2, 2]
+Jósolt legjobb eredmény: 598.3739997631136
+Rng 5%: 568.4552997749579 - 628.2926997512693
+
+Felhasznált pontok: 7
+Jósolt legjobb arány: [3, 2, 2]
+Jósolt legjobb eredmény: 610.7011407098437
+Rng 5%: 580.1660836743515 - 641.2361977453359
+
+Felhasznált pontok: 8
+Jósolt legjobb arány: [4, 2, 2]
+Jósolt legjobb eredmény: 622.6160438147768
+Rng 5%: 591.4852416240379 - 653.7468460055157
+
+Felhasznált pontok: 9
+Jósolt legjobb arány: [5, 2, 2]
+Jósolt legjobb eredmény: 634.2335042060682
+Rng 5%: 602.5218289957648 - 665.9451794163716
+
+Felhasznált pontok: 10
+Jósolt legjobb arány: [6, 2, 2]
+Jósolt legjobb eredmény: 645.6193022040237
+Rng 5%: 613.3383370938225 - 677.900267314225
+
+Felhasznált pontok: 11
+Jósolt legjobb arány: [7, 2, 2]
+Jósolt legjobb eredmény: 656.815991686279
+Rng 5%: 623.9751921019649 - 689.656791270593
+
+Felhasznált pontok: 12
+Jósolt legjobb arány: [8, 2, 2]
+Jósolt legjobb eredmény: 667.8532975797576
+Rng 5%: 634.4606327007697 - 701.2459624587456
+
+Felhasznált pontok: 13
+Jósolt legjobb arány: [9, 2, 2]
+Jósolt legjobb eredmény: 678.7531208546405
+Rng 5%: 644.8154648119084 - 712.6907768973726
+
+Felhasznált pontok: 14
+Jósolt legjobb arány: [10, 2, 2]
+Jósolt legjobb eredmény: 689.5322452256516
+Rng 5%: 655.055632964369 - 724.0088574869343
+
+Felhasznált pontok: 15
+Jósolt legjobb arány: [11, 2, 2]
+Jósolt legjobb eredmény: 700.2039279794768
+Rng 5%: 665.1937315805029 - 735.2141243784507
+
+Felhasznált pontok: 16
+Jósolt legjobb arány: [11, 2, 3]
+Jósolt legjobb eredmény: 710.8672177247192
+Rng 5%: 675.3238568384833 - 746.4105786109552
+
+Felhasznált pontok: 17
+Jósolt legjobb arány: [12, 2, 3]
+Jósolt legjobb eredmény: 721.4421853050264
+Rng 5%: 685.3700760397751 - 757.5142945702778
+
+Felhasznált pontok: 18
+Jósolt legjobb arány: [13, 2, 3]
+Jósolt legjobb eredmény: 731.9292878091667
+Rng 5%: 695.3328234187084 - 768.525752199625
+
+Felhasznált pontok: 19
+Jósolt legjobb arány: [13, 3, 3]
+Jósolt legjobb eredmény: 742.3659247697008
+Rng 5%: 705.2476285312157 - 779.4842210081858
+
+Felhasznált pontok: 20
+Jósolt legjobb arány: [14, 3, 3]
+Jósolt legjobb eredmény: 752.7725836314353
+Rng 5%: 715.1339544498635 - 790.4112128130071
+
+Felhasznált pontok: 21
+Jósolt legjobb arány: [15, 3, 3]
+Jósolt legjobb eredmény: 763.1051080238881
+Rng 5%: 724.9498526226937 - 801.2603634250825
+
+Felhasznált pontok: 22
+Jósolt legjobb arány: [16, 3, 3]
+Jósolt legjobb eredmény: 773.3689247040337
+Rng 5%: 734.700478468832 - 812.0373709392354
+
+Felhasznált pontok: 23
+Jósolt legjobb arány: [17, 3, 3]
+Jósolt legjobb eredmény: 783.5687489286709
+Rng 5%: 744.3903114822373 - 822.7471863751044
+
+Felhasznált pontok: 24
+Jósolt legjobb arány: [18, 3, 3]
+Jósolt legjobb eredmény: 793.7087141388067
+Rng 5%: 754.0232784318664 - 833.394149845747
+
+Felhasznált pontok: 25
+Jósolt legjobb arány: [19, 3, 3]
+Jósolt legjobb eredmény: 803.7924721032844
+Rng 5%: 763.6028484981201 - 843.9820957084486
+
+Felhasznált pontok: 26
+Jósolt legjobb arány: [20, 3, 3]
+Jósolt legjobb eredmény: 813.8232714548703
+Rng 5%: 773.1321078821268 - 854.5144350276139
+
+Felhasznált pontok: 27
+Jósolt legjobb arány: [21, 3, 3]
+Jósolt legjobb eredmény: 823.804020130317
+Rng 5%: 782.6138191238011 - 864.9942211368328
+
+Felhasznált pontok: 28
+Jósolt legjobb arány: [22, 3, 3]
+Jósolt legjobb eredmény: 833.7373356239368
+Rng 5%: 792.05046884274 - 875.4242024051337
+
+Felhasznált pontok: 29
+Jósolt legjobb arány: [23, 3, 3]
+Jósolt legjobb eredmény: 843.6255858797326
+Rng 5%: 801.444306585746 - 885.8068651737193
+
+Felhasznált pontok: 30
+Jósolt legjobb arány: [24, 3, 3]
+Jósolt legjobb eredmény: 853.4709228976544
+Rng 5%: 810.7973767527717 - 896.1444690425371
+
+Felhasznált pontok: 31
+Jósolt legjobb arány: [25, 3, 3]
+Jósolt legjobb eredmény: 863.2753106019218
+Rng 5%: 820.1115450718256 - 906.4390761320179
+
+Felhasznált pontok: 32
+Jósolt legjobb arány: [26, 3, 3]
+Jósolt legjobb eredmény: 873.0405481416367
+Rng 5%: 829.3885207345548 - 916.6925755487185
+
+Felhasznált pontok: 33
+Jósolt legjobb arány: [27, 3, 3]
+Jósolt legjobb eredmény: 882.7682895193561
+Rng 5%: 838.6298750433883 - 926.9067039953239
+
+Felhasznált pontok: 34
+Jósolt legjobb arány: [28, 3, 3]
+Jósolt legjobb eredmény: 892.460060240971
+Rng 5%: 847.8370572289224 - 937.0830632530195
+
+Felhasznált pontok: 35
+Jósolt legjobb arány: [29, 3, 3]
+Jósolt legjobb eredmény: 902.1172715292055
+Rng 5%: 857.0114079527451 - 947.2231351056658
+
+Felhasznált pontok: 36
+Jósolt legjobb arány: [29, 3, 4]
+Jósolt legjobb eredmény: 911.7442023606293
+Rng 5%: 866.1569922425978 - 957.3314124786608
+
+Felhasznált pontok: 37
+Jósolt legjobb arány: [30, 3, 4]
+Jósolt legjobb eredmény: 921.3681633604292
+Rng 5%: 875.2997551924077 - 967.4365715284507
+
+Felhasznált pontok: 38
+Jósolt legjobb arány: [31, 3, 4]
+Jósolt legjobb eredmény: 930.960091677453
+Rng 5%: 884.4120870935802 - 977.5080962613257
+
+Felhasznált pontok: 39
+Jósolt legjobb arány: [32, 3, 4]
+Jósolt legjobb eredmény: 940.5211225237526
+Rng 5%: 893.495066397565 - 987.5471786499403
+
+Felhasznált pontok: 40
+Jósolt legjobb arány: [33, 3, 4]
+Jósolt legjobb eredmény: 950.0523166925086
+Rng 5%: 902.5497008578832 - 997.554932527134
+
+Felhasznált pontok: 41
+Jósolt legjobb arány: [34, 3, 4]
+Jósolt legjobb eredmény: 959.5546675426783
+Rng 5%: 911.5769341655443 - 1007.5324009198123
+
+Felhasznált pontok: 42
+Jósolt legjobb arány: [35, 3, 4]
+Jósolt legjobb eredmény: 969.029107141992
+Rng 5%: 920.5776517848923 - 1017.4805624990917
+
+Felhasznált pontok: 43
+Jósolt legjobb arány: [36, 3, 4]
+Jósolt legjobb eredmény: 978.4765116908627
+Rng 5%: 929.5526861063196 - 1027.400337275406
+
+Felhasznált pontok: 44
+Jósolt legjobb arány: [37, 3, 4]
+Jósolt legjobb eredmény: 987.8977063290233
+Rng 5%: 938.5028210125721 - 1037.2925916454744
+
+Felhasznált pontok: 45
+Jósolt legjobb arány: [38, 3, 4]
+Jósolt legjobb eredmény: 997.293469409922
+Rng 5%: 947.4287959394259 - 1047.1581428804182
+
+Felhasznált pontok: 46
+Jósolt legjobb arány: [39, 3, 4]
+Jósolt legjobb eredmény: 1006.6645363142677
+Rng 5%: 956.3313094985543 - 1056.9977631299812
+
+Felhasznált pontok: 47
+Jósolt legjobb arány: [40, 3, 4]
+Jósolt legjobb eredmény: 1016.0116028629533
+Rng 5%: 965.2110227198056 - 1066.812183006101
+
+Felhasznált pontok: 48
+Jósolt legjobb arány: [41, 3, 4]
+Jósolt legjobb eredmény: 1025.335328380404
+Rng 5%: 974.0685619613838 - 1076.6020947994243
+
+Felhasznált pontok: 49
+Jósolt legjobb arány: [42, 3, 4]
+Jósolt legjobb eredmény: 1034.6363384518113
+Rng 5%: 982.9045215292207 - 1086.368155374402
+
+Felhasznált pontok: 50
+Jósolt legjobb arány: [43, 3, 4]
+Jósolt legjobb eredmény: 1043.9152274113972
+Rng 5%: 991.7194660408272 - 1096.110988781967
+
+Felhasznált pontok: 51
+Jósolt legjobb arány: [44, 3, 4]
+Jósolt legjobb eredmény: 1053.1725605935935
+Rng 5%: 1000.5139325639138 - 1105.8311886232732
+
+Felhasznált pontok: 52
+Jósolt legjobb arány: [45, 3, 4]
+Jósolt legjobb eredmény: 1062.4088763745985
+Rng 5%: 1009.2884325558686 - 1115.5293201933284
+
+Felhasznált pontok: 53
+Jósolt legjobb arány: [46, 3, 4]
+Jósolt legjobb eredmény: 1071.6246880280532
+Rng 5%: 1018.0434536266505 - 1125.205922429456
+
+Felhasznált pontok: 54
+Jósolt legjobb arány: [47, 3, 4]
+Jósolt legjobb eredmény: 1080.8204854154355
+Rng 5%: 1026.7794611446636 - 1134.8615096862075
+
+Felhasznált pontok: 55
+Jósolt legjobb arány: [48, 3, 4]
+Jósolt legjobb eredmény: 1089.9967365290922
+Rng 5%: 1035.4968997026376 - 1144.4965733555468
+
+Felhasznált pontok: 56
+Jósolt legjobb arány: [49, 3, 4]
+Jósolt legjobb eredmény: 1099.1538889035633
+Rng 5%: 1044.196194458385 - 1154.1115833487415
+
+Felhasznált pontok: 57
+Jósolt legjobb arány: [50, 3, 4]
+Jósolt legjobb eredmény: 1108.292370908891
+Rng 5%: 1052.8777523634462 - 1163.7069894543356
+
+Felhasznált pontok: 58
+Jósolt legjobb arány: [51, 3, 4]
+Jósolt legjobb eredmény: 1117.4125929379495
+Rng 5%: 1061.541963291052 - 1173.283222584847
+
+Felhasznált pontok: 59
+Jósolt legjobb arány: [51, 4, 4]
+Jósolt legjobb eredmény: 1126.5179595645072
+Rng 5%: 1070.1920615862819 - 1182.8438575427326
+
+Felhasznált pontok: 60
+Jósolt legjobb arány: [52, 4, 4]
+Jósolt legjobb eredmény: 1135.6203151249438
+Rng 5%: 1078.8392993686966 - 1192.401330881191
+
+Felhasznált pontok: 61
+Jósolt legjobb arány: [53, 4, 4]
+Jósolt legjobb eredmény: 1144.7051818450793
+Rng 5%: 1087.4699227528254 - 1201.9404409373333
+
+Felhasznált pontok: 62
+Jósolt legjobb arány: [54, 4, 4]
+Jósolt legjobb eredmény: 1153.7729224020436
+Rng 5%: 1096.0842762819414 - 1211.4615685221459
+
+Felhasznált pontok: 63
+Jósolt legjobb arány: [55, 4, 4]
+Jósolt legjobb eredmény: 1162.8238853794883
+Rng 5%: 1104.6826911105138 - 1220.9650796484627
+
+Felhasznált pontok: 64
+Jósolt legjobb arány: [56, 4, 4]
+Jósolt legjobb eredmény: 1171.8584060613982
+Rng 5%: 1113.2654857583282 - 1230.4513263644683
+
+Felhasznált pontok: 65
+Jósolt legjobb arány: [57, 4, 4]
+Jósolt legjobb eredmény: 1180.8768071678248
+Rng 5%: 1121.8329668094336 - 1239.920647526216
+
+Felhasznált pontok: 66
+Jósolt legjobb arány: [58, 4, 4]
+Jósolt legjobb eredmény: 1189.8793995377273
+Rng 5%: 1130.385429560841 - 1249.3733695146136
+
+Felhasznált pontok: 67
+Jósolt legjobb arány: [59, 4, 4]
+Jósolt legjobb eredmény: 1198.8664827635753
+Rng 5%: 1138.9231586253964 - 1258.8098069017542
+
+Felhasznált pontok: 68
+Jósolt legjobb arány: [60, 4, 4]
+Jósolt legjobb eredmény: 1207.838345781881
+Rng 5%: 1147.4464284927867 - 1268.230263070975
+
+Felhasznált pontok: 69
+Jósolt legjobb arány: [61, 4, 4]
+Jósolt legjobb eredmény: 1216.7952674233961
+Rng 5%: 1155.9555040522262 - 1277.635030794566
+
+Felhasznált pontok: 70
+Jósolt legjobb arány: [62, 4, 4]
+Jósolt legjobb eredmény: 1225.7375169263591
+Rng 5%: 1164.4506410800411 - 1287.0243927726772
+
+Felhasznált pontok: 71
+Jósolt legjobb arány: [63, 4, 4]
+Jósolt legjobb eredmény: 1234.6653544158135
+Rng 5%: 1172.9320866950227 - 1296.3986221366042
+
+Felhasznált pontok: 72
+Jósolt legjobb arány: [63, 4, 5]
+Jósolt legjobb eredmény: 1243.5884242568989
+Rng 5%: 1181.4090030440539 - 1305.7678454697439
+
+Felhasznált pontok: 73
+Jósolt legjobb arány: [64, 4, 5]
+Jósolt legjobb eredmény: 1252.502101192842
+Rng 5%: 1189.8769961331998 - 1315.1272062524843
+
+Felhasznált pontok: 74
+Jósolt legjobb arány: [65, 4, 5]
+Jósolt legjobb eredmény: 1261.4018607896776
+Rng 5%: 1198.3317677501936 - 1324.4719538291615
+
+Felhasznált pontok: 75
+Jósolt legjobb arány: [66, 4, 5]
+Jósolt legjobb eredmény: 1270.287938409227
+Rng 5%: 1206.7735414887657 - 1333.8023353296885
+
+Felhasznált pontok: 76
+Jósolt legjobb arány: [67, 4, 5]
+Jósolt legjobb eredmény: 1279.1605619293398
+Rng 5%: 1215.2025338328729 - 1343.1185900258067
+
+Felhasznált pontok: 77
+Jósolt legjobb arány: [68, 4, 5]
+Jósolt legjobb eredmény: 1288.0199520899594
+Rng 5%: 1223.6189544854612 - 1352.4209496944575
+
+Felhasznált pontok: 78
+Jósolt legjobb arány: [69, 4, 5]
+Jósolt legjobb eredmény: 1296.866322818336
+Rng 5%: 1232.023006677419 - 1361.7096389592527
+
+Felhasznált pontok: 79
+Jósolt legjobb arány: [70, 4, 5]
+Jósolt legjobb eredmény: 1305.699881534924
+Rng 5%: 1240.4148874581779 - 1370.9848756116703
+
+Felhasznált pontok: 80
+Jósolt legjobb arány: [71, 4, 5]
+Jósolt legjobb eredmény: 1314.5208294413753
+Rng 5%: 1248.7947879693065 - 1380.2468709134441
+
+Felhasznált pontok: 81
+Jósolt legjobb arány: [72, 4, 5]
+Jósolt legjobb eredmény: 1323.3293617919066
+Rng 5%: 1257.1628937023113 - 1389.495829881502
+
+Felhasznált pontok: 82
+Jósolt legjobb arány: [73, 4, 5]
+Jósolt legjobb eredmény: 1332.1256681492266
+Rng 5%: 1265.5193847417652 - 1398.731951556688
+
+Felhasznált pontok: 83
+Jósolt legjobb arány: [74, 4, 5]
+Jósolt legjobb eredmény: 1340.9099326260937
+Rng 5%: 1273.864435994789 - 1407.9554292573985
+
+Felhasznált pontok: 84
+Jósolt legjobb arány: [75, 4, 5]
+Jósolt legjobb eredmény: 1349.6823341134982
+Rng 5%: 1282.1982174078232 - 1417.1664508191732
+
+Felhasznált pontok: 85
+Jósolt legjobb arány: [76, 4, 5]
+Jósolt legjobb eredmény: 1358.4430464963777
+Rng 5%: 1290.520894171559 - 1426.3651988211966
+
+Felhasznált pontok: 86
+Jósolt legjobb arány: [77, 4, 5]
+Jósolt legjobb eredmény: 1367.1922388576997
+Rng 5%: 1298.8326269148147 - 1435.5518508005848
+
+Felhasznált pontok: 87
+Jósolt legjobb arány: [78, 4, 5]
+Jósolt legjobb eredmény: 1375.9300756716843
+Rng 5%: 1307.1335718881 - 1444.7265794552686
+
+Felhasznált pontok: 88
+Jósolt legjobb arány: [79, 4, 5]
+Jósolt legjobb eredmény: 1384.656716986875
+Rng 5%: 1315.4238811375312 - 1453.8895528362186
+
+Felhasznált pontok: 89
+Jósolt legjobb arány: [80, 4, 5]
+Jósolt legjobb eredmény: 1393.372318599712
+Rng 5%: 1323.7037026697262 - 1463.0409345296976
+
+Felhasznált pontok: 90
+Jósolt legjobb arány: [81, 4, 5]
+Jósolt legjobb eredmény: 1402.0770322192166
+Rng 5%: 1331.9731806082557 - 1472.1808838301774
+
+Felhasznált pontok: 91
+Jósolt legjobb arány: [82, 4, 5]
+Jósolt legjobb eredmény: 1410.7710056233423
+Rng 5%: 1340.2324553421752 - 1481.3095559045094
+
+Felhasznált pontok: 92
+Jósolt legjobb arány: [83, 4, 5]
+Jósolt legjobb eredmény: 1419.4543828075116
+Rng 5%: 1348.481663667136 - 1490.4271019478872
+
+Felhasznált pontok: 93
+Jósolt legjobb arány: [84, 4, 5]
+Jósolt legjobb eredmény: 1428.1273041258205
+Rng 5%: 1356.7209389195293 - 1499.5336693321117
+
+Felhasznált pontok: 94
+Jósolt legjobb arány: [85, 4, 5]
+Jósolt legjobb eredmény: 1436.7899064253531
+Rng 5%: 1364.9504111040853 - 1508.629401746621
+
+Felhasznált pontok: 95
+Jósolt legjobb arány: [86, 4, 5]
+Jósolt legjobb eredmény: 1445.4423231740209
+Rng 5%: 1373.1702070153199 - 1517.714439332722
+
+Felhasznált pontok: 96
+Jósolt legjobb arány: [87, 4, 5]
+Jósolt legjobb eredmény: 1454.0846845823105
+Rng 5%: 1381.3804503531949 - 1526.7889188114261
+
+Felhasznált pontok: 97
+Jósolt legjobb arány: [88, 4, 5]
+Jósolt legjobb eredmény: 1462.717117719296
+Rng 5%: 1389.5812618333312 - 1535.852973605261
+
+Felhasznált pontok: 98
+Jósolt legjobb arány: [89, 4, 5]
+Jósolt legjobb eredmény: 1471.339746623249
+Rng 5%: 1397.7727592920867 - 1544.9067339544115
+
+Felhasznált pontok: 99
+Jósolt legjobb arány: [90, 4, 5]
+Jósolt legjobb eredmény: 1479.9526924071554
+Rng 5%: 1405.9550577867976 - 1553.9503270275131
+
+Felhasznált pontok: 100
+Jósolt legjobb arány: [91, 4, 5]
+Jósolt legjobb eredmény: 1488.5560733594275
+Rng 5%: 1414.1282696914561 - 1562.9838770273989
+
+Felhasznált pontok: 101
+Jósolt legjobb arány: [92, 4, 5]
+Jósolt legjobb eredmény: 1497.150005040081
+Rng 5%: 1422.292504788077 - 1572.007505292085
+
+Felhasznált pontok: 102
+Jósolt legjobb arány: [93, 4, 5]
+Jósolt legjobb eredmény: 1505.734600372626
+Rng 5%: 1430.4478703539946 - 1581.0213303912572
+
+Felhasznált pontok: 103
+Jósolt legjobb arány: [94, 4, 5]
+Jósolt legjobb eredmény: 1514.3099697319117
+Rng 5%: 1438.594471245316 - 1590.0254682185073
+
+Felhasznált pontok: 104
+Jósolt legjobb arány: [95, 4, 5]
+Jósolt legjobb eredmény: 1522.8762210281388
+Rng 5%: 1446.7324099767318 - 1599.020032079546
+
+Felhasznált pontok: 105
+Jósolt legjobb arány: [96, 4, 5]
+Jósolt legjobb eredmény: 1531.4334597872482
+Rng 5%: 1454.8617867978858 - 1608.0051327766107
+
+Felhasznált pontok: 106
+Jósolt legjobb arány: [97, 4, 5]
+Jósolt legjobb eredmény: 1539.9817892278782
+Rng 5%: 1462.982699766484 - 1616.9808786892722
+
+Felhasznált pontok: 107
+Jósolt legjobb arány: [98, 4, 5]
+Jósolt legjobb eredmény: 1548.5213103350704
+Rng 5%: 1471.0952448183168 - 1625.947375851824
+
+Felhasznált pontok: 108
+Jósolt legjobb arány: [99, 4, 5]
+Jósolt legjobb eredmény: 1557.0521219308937
+Rng 5%: 1479.1995158343489 - 1634.9047280274385
+
+Felhasznált pontok: 109
+Jósolt legjobb arány: [100, 4, 5]
+Jósolt legjobb eredmény: 1565.5743207421426
+Rng 5%: 1487.2956047050354 - 1643.8530367792498
+
+Felhasznált pontok: 110
+Jósolt legjobb arány: [101, 4, 5]
+Jósolt legjobb eredmény: 1574.0880014652641
+Rng 5%: 1495.3836013920009 - 1652.7924015385274
+
+Felhasznált pontok: 111
+Jósolt legjobb arány: [102, 4, 5]
+Jósolt legjobb eredmény: 1582.5932568286476
+Rng 5%: 1503.463593987215 - 1661.72291967008
+
+Felhasznált pontok: 112
+Jósolt legjobb arány: [103, 4, 5]
+Jósolt legjobb eredmény: 1591.0901776524129
+Rng 5%: 1511.5356687697922 - 1670.6446865350335
+
+Felhasznált pontok: 113
+Jósolt legjobb arány: [104, 4, 5]
+Jósolt legjobb eredmény: 1599.5788529058195
+Rng 5%: 1519.5999102605285 - 1679.5577955511105
+
+Felhasznált pontok: 114
+Jósolt legjobb arány: [105, 4, 5]
+Jósolt legjobb eredmény: 1608.0593697624136
+Rng 5%: 1527.6564012742929 - 1688.4623382505342
+
+Felhasznált pontok: 115
+Jósolt legjobb arány: [106, 4, 5]
+Jósolt legjobb eredmény: 1616.5318136530218
+Rng 5%: 1535.7052229703706 - 1697.358404335673
+
+Felhasznált pontok: 116
+Jósolt legjobb arány: [107, 4, 5]
+Jósolt legjobb eredmény: 1624.9962683166966
+Rng 5%: 1543.7464549008616 - 1706.2460817325316
+
+Felhasznált pontok: 117
+Jósolt legjobb arány: [108, 4, 5]
+Jósolt legjobb eredmény: 1633.45281584971
+Rng 5%: 1551.7801750572246 - 1715.1254566421956
+
+Felhasznált pontok: 118
+Jósolt legjobb arány: [109, 4, 5]
+Jósolt legjobb eredmény: 1641.9015367526893
+Rng 5%: 1559.8064599150548 - 1723.9966135903237
+
+Felhasznált pontok: 119
+Jósolt legjobb arány: [110, 4, 5]
+Jósolt legjobb eredmény: 1650.342509975978
+Rng 5%: 1567.8253844771789 - 1732.859635474777
+
+Felhasznált pontok: 120
+Jósolt legjobb arány: [111, 4, 5]
+Jósolt legjobb eredmény: 1658.7758129633091
+Rng 5%: 1575.8370223151437 - 1741.7146036114746
+
+Felhasznált pontok: 121
+Jósolt legjobb arány: [112, 4, 5]
+Jósolt legjobb eredmény: 1667.2015216938653
+Rng 5%: 1583.8414456091718 - 1750.5615977785587
+
+Felhasznált pontok: 122
+Jósolt legjobb arány: [113, 4, 5]
+Jósolt legjobb eredmény: 1675.6197107227983
+Rng 5%: 1591.8387251866584 - 1759.4006962589383
+
+Felhasznált pontok: 123
+Jósolt legjobb arány: [114, 4, 5]
+Jósolt legjobb eredmény: 1684.0304532202813
+Rng 5%: 1599.828930559267 - 1768.2319758812955
+
+Felhasznált pontok: 124
+Jósolt legjobb arány: [115, 4, 5]
+Jósolt legjobb eredmény: 1692.433821009155
+Rng 5%: 1607.8121299586971 - 1777.055512059613
+
+Felhasznált pontok: 125
+Jósolt legjobb arány: [115, 4, 6]
+Jósolt legjobb eredmény: 1700.833316465298
+Rng 5%: 1615.791650642033 - 1785.874982288563
+
+Felhasznált pontok: 126
+Jósolt legjobb arány: [116, 4, 6]
+Jósolt legjobb eredmény: 1709.2293800573768
+Rng 5%: 1623.767911054508 - 1794.6908490602457
+
+Felhasznált pontok: 127
+Jósolt legjobb arány: [117, 4, 6]
+Jósolt legjobb eredmény: 1717.6182086884717
+Rng 5%: 1631.737298254048 - 1803.4991191228953
+
+Felhasznált pontok: 128
+Jósolt legjobb arány: [118, 4, 6]
+Jósolt legjobb eredmény: 1725.999870352184
+Rng 5%: 1639.6998768345748 - 1812.2998638697932
+
+Felhasznált pontok: 129
+Jósolt legjobb arány: [119, 4, 6]
+Jósolt legjobb eredmény: 1734.3744318325307
+Rng 5%: 1647.655710240904 - 1821.0931534241574
+
+Felhasznált pontok: 130
+Jósolt legjobb arány: [120, 4, 6]
+Jósolt legjobb eredmény: 1742.74195873544
+Rng 5%: 1655.604860798668 - 1829.879056672212
+
+Felhasznált pontok: 131
+Jósolt legjobb arány: [121, 4, 6]
+Jósolt legjobb eredmény: 1751.1025155191755
+Rng 5%: 1663.5473897432166 - 1838.6576412951345
+
+Felhasznált pontok: 132
+Jósolt legjobb arány: [122, 4, 6]
+Jósolt legjobb eredmény: 1759.4561655237278
+Rng 5%: 1671.4833572475413 - 1847.4289737999143
+
+Felhasznált pontok: 133
+Jósolt legjobb arány: [123, 4, 6]
+Jósolt legjobb eredmény: 1767.8029709992197
+Rng 5%: 1679.4128224492586 - 1856.193119549181
+
+Felhasznált pontok: 134
+Jósolt legjobb arány: [124, 4, 6]
+Jósolt legjobb eredmény: 1776.142993133364
+Rng 5%: 1687.3358434766956 - 1864.9501427900323
+
+Felhasznált pontok: 135
+Jósolt legjobb arány: [125, 4, 6]
+Jósolt legjobb eredmény: 1784.4762920780138
+Rng 5%: 1695.252477474113 - 1873.7001066819146
+
+Felhasznált pontok: 136
+Jósolt legjobb arány: [126, 4, 6]
+Jósolt legjobb eredmény: 1792.802926974844
+Rng 5%: 1703.1627806261017 - 1882.4430733235863
+
+Felhasznált pontok: 137
+Jósolt legjobb arány: [127, 4, 6]
+Jósolt legjobb eredmény: 1801.122955980195
+Rng 5%: 1711.0668081811853 - 1891.1791037792048
+
+Felhasznált pontok: 138
+Jósolt legjobb arány: [128, 4, 6]
+Jósolt legjobb eredmény: 1809.4364362891151
+Rng 5%: 1718.9646144746594 - 1899.908258103571
+
+Felhasznált pontok: 139
+Jósolt legjobb arány: [129, 4, 6]
+Jósolt legjobb eredmény: 1817.743424158636
+Rng 5%: 1726.856252950704 - 1908.6305953665678
+
+Felhasznált pontok: 140
+Jósolt legjobb arány: [130, 4, 6]
+Jósolt legjobb eredmény: 1826.0439749303032
+Rng 5%: 1734.741776183788 - 1917.3461736768184
+
+Felhasznált pontok: 141
+Jósolt legjobb arány: [131, 4, 6]
+Jósolt legjobb eredmény: 1834.338143052002
+Rng 5%: 1742.6212358994017 - 1926.0550502046021
+
+Felhasznált pontok: 142
+Jósolt legjobb arány: [132, 4, 6]
+Jósolt legjobb eredmény: 1842.6259820990963
+Rng 5%: 1750.4946829941414 - 1934.7572812040512
+
+Felhasznált pontok: 143
+Jósolt legjobb arány: [133, 4, 6]
+Jósolt legjobb eredmény: 1850.9075447949135
+Rng 5%: 1758.3621675551678 - 1943.4529220346592
+
+Felhasznált pontok: 144
+Jósolt legjobb arány: [134, 4, 6]
+Jósolt legjobb eredmény: 1859.1828830305974
+Rng 5%: 1766.2237388790675 - 1952.1420271821273
+
+Felhasznált pontok: 145
+Jósolt legjobb arány: [135, 4, 6]
+Jósolt legjobb eredmény: 1867.4520478843526
+Rng 5%: 1774.079445490135 - 1960.8246502785703
+
+Felhasznált pontok: 146
+Jósolt legjobb arány: [136, 4, 6]
+Jósolt legjobb eredmény: 1875.7150896401067
+Rng 5%: 1781.9293351581014 - 1969.500844122112
+
+Felhasznált pontok: 147
+Jósolt legjobb arány: [137, 4, 6]
+Jósolt legjobb eredmény: 1883.9720578056092
+Rng 5%: 1789.7734549153286 - 1978.1706606958899
+
+Felhasznált pontok: 148
+Jósolt legjobb arány: [138, 4, 6]
+Jósolt legjobb eredmény: 1892.2230011299882
+Rng 5%: 1797.6118510734887 - 1986.8341511864878
+
+Felhasznált pontok: 149
+Jósolt legjobb arány: [139, 4, 6]
+Jósolt legjobb eredmény: 1900.467967620787
+Rng 5%: 1805.4445692397476 - 1995.4913660018265
+
+Felhasznált pontok: 150
+Jósolt legjobb arány: [140, 4, 6]
+Jósolt legjobb eredmény: 1908.7070045604971
+Rng 5%: 1813.2716543324723 - 2004.142354788522
+
+Felhasznált pontok: 151
+Jósolt legjobb arány: [141, 4, 6]
+Jósolt legjobb eredmény: 1916.940158522608
+Rng 5%: 1821.0931505964775 - 2012.7871664487386
+
+Felhasznált pontok: 152
+Jósolt legjobb arány: [141, 5, 6]
+Jósolt legjobb eredmény: 1925.1684358828504
+Rng 5%: 1828.9100140887078 - 2021.426857676993
+
+Felhasznált pontok: 153
+Jósolt legjobb arány: [142, 5, 6]
+Jósolt legjobb eredmény: 1933.3957527474324
+Rng 5%: 1836.7259651100608 - 2030.065540384804
+
+Felhasznált pontok: 154
+Jósolt legjobb arány: [143, 5, 6]
+Jósolt legjobb eredmény: 1941.6172777162706
+Rng 5%: 1844.536413830457 - 2038.6981416020842
+
+Felhasznált pontok: 155
+Jósolt legjobb arány: [144, 5, 6]
+Jósolt legjobb eredmény: 1949.8330553275625
+Rng 5%: 1852.3414025611844 - 2047.3247080939407
+
+Felhasznált pontok: 156
+Jósolt legjobb arány: [145, 5, 6]
+Jósolt legjobb eredmény: 1958.0431294702014
+Rng 5%: 1860.1409729966913 - 2055.9452859437115
+
+Felhasznált pontok: 157
+Jósolt legjobb arány: [146, 5, 6]
+Jósolt legjobb eredmény: 1966.2475433976515
+Rng 5%: 1867.9351662277688 - 2064.559920567534
+
+Felhasznált pontok: 158
+Jósolt legjobb arány: [147, 5, 6]
+Jósolt legjobb eredmény: 1974.4463397414374
+Rng 5%: 1875.7240227543655 - 2073.168656728509
+
+Felhasznált pontok: 159
+Jósolt legjobb arány: [148, 5, 6]
+Jósolt legjobb eredmény: 1982.6395605242549
+Rng 5%: 1883.507582498042 - 2081.7715385504675
+
+Felhasznált pontok: 160
+Jósolt legjobb arány: [149, 5, 6]
+Jósolt legjobb eredmény: 1990.8272471727194
+Rng 5%: 1891.2858848140834 - 2090.3686095313556
+
+Felhasznált pontok: 161
+Jósolt legjobb arány: [150, 5, 6]
+Jósolt legjobb eredmény: 1999.0094405297648
+Rng 5%: 1899.0589685032764 - 2098.959912556253
+
+Felhasznált pontok: 162
+Jósolt legjobb arány: [151, 5, 6]
+Jósolt legjobb eredmény: 2007.1861808667013
+Rng 5%: 1906.8268718233662 - 2107.5454899100364
+
+Felhasznált pontok: 163
+Jósolt legjobb arány: [152, 5, 6]
+Jósolt legjobb eredmény: 2015.3575078949482
+Rng 5%: 1914.5896325002007 - 2116.1253832896955
+
+Felhasznált pontok: 164
+Jósolt legjobb arány: [153, 5, 6]
+Jósolt legjobb eredmény: 2023.5234607774482
+Rng 5%: 1922.3472877385757 - 2124.699633816321
+
+Felhasznált pontok: 165
+Jósolt legjobb arány: [154, 5, 6]
+Jósolt legjobb eredmény: 2031.6840781397789
+Rng 5%: 1930.09987423279 - 2133.268282046768
+
+Felhasznált pontok: 166
+Jósolt legjobb arány: [155, 5, 6]
+Jósolt legjobb eredmény: 2039.839398080964
+Rng 5%: 1937.8474281769156 - 2141.831367985012
+
+Felhasznált pontok: 167
+Jósolt legjobb arány: [156, 5, 6]
+Jósolt legjobb eredmény: 2047.9894581840038
+Rng 5%: 1945.5899852748034 - 2150.388931093204
+
+Felhasznált pontok: 168
+Jósolt legjobb arány: [157, 5, 6]
+Jósolt legjobb eredmény: 2056.1342955261252
+Rng 5%: 1953.327580749819 - 2158.9410103024316
+
+Felhasznált pontok: 169
+Jósolt legjobb arány: [158, 5, 6]
+Jósolt legjobb eredmény: 2064.2739466887656
+Rng 5%: 1961.0602493543272 - 2167.4876440232038
+
+Felhasznált pontok: 170
+Jósolt legjobb arány: [159, 5, 6]
+Jósolt legjobb eredmény: 2072.4084477672973
+Rng 5%: 1968.7880253789324 - 2176.0288701556624
+
+Felhasznált pontok: 171
+Jósolt legjobb arány: [160, 5, 6]
+Jósolt legjobb eredmény: 2080.5378343805023
+Rng 5%: 1976.5109426614772 - 2184.5647260995274
+
+Felhasznált pontok: 172
+Jósolt legjobb arány: [161, 5, 6]
+Jósolt legjobb eredmény: 2088.6621416798025
+Rng 5%: 1984.2290345958122 - 2193.095248763793
+
+Felhasznált pontok: 173
+Jósolt legjobb arány: [162, 5, 6]
+Jósolt legjobb eredmény: 2096.7814043582575
+Rng 5%: 1991.9423341403447 - 2201.6204745761706
+
+Felhasznált pontok: 174
+Jósolt legjobb arány: [163, 5, 6]
+Jósolt legjobb eredmény: 2104.8956566593315
+Rng 5%: 1999.650873826365 - 2210.1404394922984
+
+Felhasznált pontok: 175
+Jósolt legjobb arány: [164, 5, 6]
+Jósolt legjobb eredmény: 2113.004932385443
+Rng 5%: 2007.3546857661709 - 2218.6551790047156
+
+Felhasznált pontok: 176
+Jósolt legjobb arány: [165, 5, 6]
+Jósolt legjobb eredmény: 2121.1092649062984
+Rng 5%: 2015.0538016609835 - 2227.1647281516134
+
+Felhasznált pontok: 177
+Jósolt legjobb arány: [166, 5, 6]
+Jósolt legjobb eredmény: 2129.2086871670194
+Rng 5%: 2022.7482528086684 - 2235.6691215253704
+
+Felhasznált pontok: 178
+Jósolt legjobb arány: [167, 5, 6]
+Jósolt legjobb eredmény: 2137.30323169607
+Rng 5%: 2030.4380701112661 - 2244.1683932808733
+
+Felhasznált pontok: 179
+Jósolt legjobb arány: [168, 5, 6]
+Jósolt legjobb eredmény: 2145.3929306129894
+Rng 5%: 2038.1232840823398 - 2252.662577143639
+
+Felhasznált pontok: 180
+Jósolt legjobb arány: [169, 5, 6]
+Jósolt legjobb eredmény: 2153.4778156359353
+Rng 5%: 2045.8039248541384 - 2261.151706417732
+
+Felhasznált pontok: 181
+Jósolt legjobb arány: [170, 5, 6]
+Jósolt legjobb eredmény: 2161.5579180890422
+Rng 5%: 2053.48002218459 - 2269.6358139934946
+
+Felhasznált pontok: 182
+Jósolt legjobb arány: [171, 5, 6]
+Jósolt legjobb eredmény: 2169.63326890961
+Rng 5%: 2061.1516054641293 - 2278.1149323550903
+
+Felhasznált pontok: 183
+Jósolt legjobb arány: [172, 5, 6]
+Jósolt legjobb eredmény: 2177.703898655108
+Rng 5%: 2068.8187037223524 - 2286.5890935878633
+
+Felhasznált pontok: 184
+Jósolt legjobb arány: [173, 5, 6]
+Jósolt legjobb eredmény: 2185.7698375100244
+Rng 5%: 2076.481345634523 - 2295.0583293855257
+
+Felhasznált pontok: 185
+Jósolt legjobb arány: [174, 5, 6]
+Jósolt legjobb eredmény: 2193.8311152925453
+Rng 5%: 2084.1395595279178 - 2303.522671057173
+
+Felhasznált pontok: 186
+Jósolt legjobb arány: [175, 5, 6]
+Jósolt legjobb eredmény: 2201.88776146108
+Rng 5%: 2091.793373388026 - 2311.9821495341344
+
+Felhasznált pontok: 187
+Jósolt legjobb arány: [176, 5, 6]
+Jósolt legjobb eredmény: 2209.9398051206317
+Rng 5%: 2099.4428148646 - 2320.436795376663
+
+Felhasznált pontok: 188
+Jósolt legjobb arány: [177, 5, 6]
+Jósolt legjobb eredmény: 2217.9872750290206
+Rng 5%: 2107.087911277569 - 2328.886638780472
+
+Felhasznált pontok: 189
+Jósolt legjobb arány: [178, 5, 6]
+Jósolt legjobb eredmény: 2226.0301996029657
+Rng 5%: 2114.7286896228175 - 2337.331709583114
+
+Felhasznált pontok: 190
+Jósolt legjobb arány: [179, 5, 6]
+Jósolt legjobb eredmény: 2234.0686069240182
+Rng 5%: 2122.3651765778172 - 2345.7720372702192
+
+Felhasznált pontok: 191
+Jósolt legjobb arány: [180, 5, 6]
+Jósolt legjobb eredmény: 2242.1025247443704
+Rng 5%: 2129.997398507152 - 2354.207650981589
+
+Felhasznált pontok: 192
+Jósolt legjobb arány: [181, 5, 6]
+Jósolt legjobb eredmény: 2250.1319804925233
+Rng 5%: 2137.625381467897 - 2362.6385795171495
+
+Felhasznált pontok: 193
+Jósolt legjobb arány: [182, 5, 6]
+Jósolt legjobb eredmény: 2258.157001278829
+Rng 5%: 2145.249151214887 - 2371.0648513427705
+
+Felhasznált pontok: 194
+Jósolt legjobb arány: [183, 5, 6]
+Jósolt legjobb eredmény: 2266.1776139009103
+Rng 5%: 2152.868733205865 - 2379.4864945959557
+
+Felhasznált pontok: 195
+Jósolt legjobb arány: [184, 5, 6]
+Jósolt legjobb eredmény: 2274.193844848955
+Rng 5%: 2160.484152606507 - 2387.903537091403
+
+Felhasznált pontok: 196
+Jósolt legjobb arány: [185, 5, 6]
+Jósolt legjobb eredmény: 2282.205720310895
+Rng 5%: 2168.09543429535 - 2396.3160063264395
+
+Felhasznált pontok: 197
+Jósolt legjobb arány: [186, 5, 6]
+Jósolt legjobb eredmény: 2290.2132661774694
+Rng 5%: 2175.702602868596 - 2404.723929486343
+
+Felhasznált pontok: 198
+Jósolt legjobb arány: [187, 5, 6]
+Jósolt legjobb eredmény: 2298.2165080471786
+Rng 5%: 2183.3056826448196 - 2413.1273334495377
+
+Felhasznált pontok: 199
+Jósolt legjobb arány: [188, 5, 6]
+Jósolt legjobb eredmény: 2306.215471231125
+Rng 5%: 2190.9046976695686 - 2421.526244792681
+
+Felhasznált pontok: 200
+Jósolt legjobb arány: [189, 5, 6]
+Jósolt legjobb eredmény: 2314.21018075775
+Rng 5%: 2198.4996717198624 - 2429.920689795638
+
+Felhasznált pontok: 201
+Jósolt legjobb arány: [190, 5, 6]
+Jósolt legjobb eredmény: 2322.2006613774743
+Rng 5%: 2206.0906283086006 - 2438.310694446348
+
+Felhasznált pontok: 202
+Jósolt legjobb arány: [190, 5, 7]
+Jósolt legjobb eredmény: 2330.188355191785
+Rng 5%: 2213.6789374321957 - 2446.697772951374
+
+Felhasznált pontok: 203
+Jósolt legjobb arány: [191, 5, 7]
+Jósolt legjobb eredmény: 2338.174631381538
+Rng 5%: 2221.2658998124607 - 2455.083362950615
+
+Felhasznált pontok: 204
+Jósolt legjobb arány: [192, 5, 7]
+Jósolt legjobb eredmény: 2346.1567273491983
+Rng 5%: 2228.8488909817384 - 2463.464563716658
+
+Felhasznált pontok: 205
+Jósolt legjobb arány: [193, 5, 7]
+Jósolt legjobb eredmény: 2354.134667037936
+Rng 5%: 2236.427933686039 - 2471.8414003898333
+
+Felhasznált pontok: 206
+Jósolt legjobb arány: [194, 5, 7]
+Jósolt legjobb eredmény: 2362.1084741304644
+Rng 5%: 2244.003050423941 - 2480.2138978369876
+
+Felhasznált pontok: 207
+Jósolt legjobb arány: [195, 5, 7]
+Jósolt legjobb eredmény: 2370.0781720531995
+Rng 5%: 2251.5742634505395 - 2488.5820806558595
+
+Felhasznált pontok: 208
+Jósolt legjobb arány: [196, 5, 7]
+Jósolt legjobb eredmény: 2378.0437839803353
+Rng 5%: 2259.1415947813184 - 2496.945973179352
+
+Felhasznált pontok: 209
+Jósolt legjobb arány: [197, 5, 7]
+Jósolt legjobb eredmény: 2386.005332837829
+Rng 5%: 2266.7050661959374 - 2505.3055994797205
+
+Felhasznált pontok: 210
+Jósolt legjobb arány: [198, 5, 7]
+Jósolt legjobb eredmény: 2393.9628413073106
+Rng 5%: 2274.264699241945 - 2513.660983372676
+
+Felhasznált pontok: 211
+Jósolt legjobb arány: [199, 5, 7]
+Jósolt legjobb eredmény: 2401.916331829904
+Rng 5%: 2281.8205152384085 - 2522.012148421399
+
+Felhasznált pontok: 212
+Jósolt legjobb arány: [200, 5, 7]
+Jósolt legjobb eredmény: 2409.865826609973
+Rng 5%: 2289.372535279474 - 2530.3591179404716
+
+Felhasznált pontok: 213
+Jósolt legjobb arány: [201, 5, 7]
+Jósolt legjobb eredmény: 2417.811347618792
+Rng 5%: 2296.9207802378523 - 2538.7019149997313
+
+Felhasznált pontok: 214
+Jósolt legjobb arány: [202, 5, 7]
+Jósolt legjobb eredmény: 2425.7529165981396
+Rng 5%: 2304.4652707682326 - 2547.0405624280465
+
+Felhasznált pontok: 215
+Jósolt legjobb arány: [203, 5, 7]
+Jósolt legjobb eredmény: 2433.6905550638176
+Rng 5%: 2312.0060273106265 - 2555.3750828170087
+
+Felhasznált pontok: 216
+Jósolt legjobb arány: [204, 5, 7]
+Jósolt legjobb eredmény: 2441.624284309103
+Rng 5%: 2319.5430700936477 - 2563.7054985245586
+
+Felhasznált pontok: 217
+Jósolt legjobb arány: [205, 5, 7]
+Jósolt legjobb eredmény: 2449.554125408131
+Rng 5%: 2327.0764191377243 - 2572.0318316785374
+
+Felhasznált pontok: 218
+Jósolt legjobb arány: [206, 5, 7]
+Jósolt legjobb eredmény: 2457.4800992192017
+Rng 5%: 2334.6060942582417 - 2580.354104180162
+
+Felhasznált pontok: 219
+Jósolt legjobb arány: [207, 5, 7]
+Jósolt legjobb eredmény: 2465.4022263880333
+Rng 5%: 2342.1321150686317 - 2588.672337707435
+
+Felhasznált pontok: 220
+Jósolt legjobb arány: [208, 5, 7]
+Jósolt legjobb eredmény: 2473.320527350943
+Rng 5%: 2349.654500983396 - 2596.98655371849
+
+Felhasznált pontok: 221
+Jósolt legjobb arány: [209, 5, 7]
+Jósolt legjobb eredmény: 2481.2350223379653
+Rng 5%: 2357.173271221067 - 2605.296773454864
+
+Felhasznált pontok: 222
+Jósolt legjobb arány: [210, 5, 7]
+Jósolt legjobb eredmény: 2489.1457313759156
+Rng 5%: 2364.6884448071196 - 2613.6030179447116
+
+Felhasznált pontok: 223
+Jósolt legjobb arány: [211, 5, 7]
+Jósolt legjobb eredmény: 2497.0526742913835
+Rng 5%: 2372.200040576814 - 2621.905308005953
+
+Felhasznált pontok: 224
+Jósolt legjobb arány: [212, 5, 7]
+Jósolt legjobb eredmény: 2504.9558707136794
+Rng 5%: 2379.708077177995 - 2630.2036642493636
+
+Felhasznált pontok: 225
+Jósolt legjobb arány: [213, 5, 7]
+Jósolt legjobb eredmény: 2512.8553400777146
+Rng 5%: 2387.212573073829 - 2638.4981070816
+
+Felhasznált pontok: 226
+Jósolt legjobb arány: [214, 5, 7]
+Jósolt legjobb eredmény: 2520.7511016268318
+Rng 5%: 2394.71354654549 - 2646.7886567081737
+
+Felhasznált pontok: 227
+Jósolt legjobb arány: [215, 5, 7]
+Jósolt legjobb eredmény: 2528.643174415579
+Rng 5%: 2402.2110156947997 - 2655.075333136358
+
+Felhasznált pontok: 228
+Jósolt legjobb arány: [216, 5, 7]
+Jósolt legjobb eredmény: 2536.531577312433
+Rng 5%: 2409.7049984468113 - 2663.3581561780547
+
+Felhasznált pontok: 229
+Jósolt legjobb arány: [217, 5, 7]
+Jósolt legjobb eredmény: 2544.4163290024653
+Rng 5%: 2417.195512552342 - 2671.637145452589
+
+Felhasznált pontok: 230
+Jósolt legjobb arány: [218, 5, 7]
+Jósolt legjobb eredmény: 2552.2974479899653
+Rng 5%: 2424.682575590467 - 2679.9123203894637
+
+Felhasznált pontok: 231
+Jósolt legjobb arány: [219, 5, 7]
+Jósolt legjobb eredmény: 2560.174952601009
+Rng 5%: 2432.1662049709585 - 2688.1837002310594
+
+Felhasznált pontok: 232
+Jósolt legjobb arány: [220, 5, 7]
+Jósolt legjobb eredmény: 2568.0488609859794
+Rng 5%: 2439.6464179366803 - 2696.4513040352786
+
+Felhasznált pontok: 233
+Jósolt legjobb arány: [221, 5, 7]
+Jósolt legjobb eredmény: 2575.919191122047
+Rng 5%: 2447.1232315659445 - 2704.7151506781493
+
+Felhasznált pontok: 234
+Jósolt legjobb arány: [222, 5, 7]
+Jósolt legjobb eredmény: 2583.785960815592
+Rng 5%: 2454.596662774812 - 2712.9752588563715
+
+Felhasznált pontok: 235
+Jósolt legjobb arány: [223, 5, 7]
+Jósolt legjobb eredmény: 2591.6491877045933
+Rng 5%: 2462.0667283193634 - 2721.231647089823
+
+Felhasznált pontok: 236
+Jósolt legjobb arány: [224, 5, 7]
+Jósolt legjobb eredmény: 2599.508889260969
+Rng 5%: 2469.5334447979208 - 2729.4843337240177
+
+Felhasznált pontok: 237
+Jósolt legjobb arány: [225, 5, 7]
+Jósolt legjobb eredmény: 2607.365082792871
+Rng 5%: 2476.996828653227 - 2737.7333369325147
+
+Felhasznált pontok: 238
+Jósolt legjobb arány: [226, 5, 7]
+Jósolt legjobb eredmény: 2615.217785446944
+Rng 5%: 2484.4568961745967 - 2745.9786747192916
+
+Felhasznált pontok: 239
+Jósolt legjobb arány: [227, 5, 7]
+Jósolt legjobb eredmény: 2623.0670142105396
+Rng 5%: 2491.9136635000123 - 2754.220364921067
+
+Felhasznált pontok: 240
+Jósolt legjobb arány: [228, 5, 7]
+Jósolt legjobb eredmény: 2630.912785913889
+Rng 5%: 2499.3671466181945 - 2762.4584252095833
+
+Felhasznált pontok: 241
+Jósolt legjobb arány: [229, 5, 7]
+Jósolt legjobb eredmény: 2638.755117232242
+Rng 5%: 2506.81736137063 - 2770.692873093854
+
+Felhasznált pontok: 242
+Jósolt legjobb arány: [230, 5, 7]
+Jósolt legjobb eredmény: 2646.594024687963
+Rng 5%: 2514.264323453565 - 2778.9237259223614
+
+Felhasznált pontok: 243
+Jósolt legjobb arány: [231, 5, 7]
+Jósolt legjobb eredmény: 2654.4295246525908
+Rng 5%: 2521.708048419961 - 2787.1510008852206
+
+Felhasznált pontok: 244
+Jósolt legjobb arány: [232, 5, 7]
+Jósolt legjobb eredmény: 2662.261633348864
+Rng 5%: 2529.148551681421 - 2795.374715016307
+
+Felhasznált pontok: 245
+Jósolt legjobb arány: [233, 5, 7]
+Jósolt legjobb eredmény: 2670.090366852707
+Rng 5%: 2536.5858485100716 - 2803.5948851953426
+
+Felhasznált pontok: 246
+Jósolt legjobb arány: [234, 5, 7]
+Jósolt legjobb eredmény: 2677.9157410951843
+Rng 5%: 2544.019954040425 - 2811.8115281499436
+
+Felhasznált pontok: 247
+Jósolt legjobb arány: [235, 5, 7]
+Jósolt legjobb eredmény: 2685.737771864416
+Rng 5%: 2551.4508832711954 - 2820.024660457637
+
+Felhasznált pontok: 248
+Jósolt legjobb arány: [236, 5, 7]
+Jósolt legjobb eredmény: 2693.55647480747
+Rng 5%: 2558.878651067096 - 2828.2342985478435
+
+Felhasznált pontok: 249
+Jósolt legjobb arány: [237, 5, 7]
+Jósolt legjobb eredmény: 2701.3718654322065
+Rng 5%: 2566.303272160596 - 2836.440458703817
+
+Felhasznált pontok: 250
+Jósolt legjobb arány: [238, 5, 7]
+Jósolt legjobb eredmény: 2709.1839591091034
+Rng 5%: 2573.724761153648 - 2844.6431570645586
+
+Felhasznált pontok: 251
+Jósolt legjobb arány: [239, 5, 7]
+Jósolt legjobb eredmény: 2716.992771073044
+Rng 5%: 2581.1431325193917 - 2852.8424096266963
+
+Felhasznált pontok: 252
+Jósolt legjobb arány: [240, 5, 7]
+Jósolt legjobb eredmény: 2724.798316425076
+Rng 5%: 2588.558400603822 - 2861.0382322463297
+
+Felhasznált pontok: 253
+Jósolt legjobb arány: [241, 5, 7]
+Jósolt legjobb eredmény: 2732.6006101341372
+Rng 5%: 2595.97057962743 - 2869.2306406408443
+
+Felhasznált pontok: 254
+Jósolt legjobb arány: [242, 5, 7]
+Jósolt legjobb eredmény: 2740.39966703876
+Rng 5%: 2603.379683686822 - 2877.4196503906983
+
+Felhasznált pontok: 255
+Jósolt legjobb arány: [243, 5, 7]
+Jósolt legjobb eredmény: 2748.1955018487347
+Rng 5%: 2610.7857267562977 - 2885.6052769411717
+
+Felhasznált pontok: 256
+Jósolt legjobb arány: [244, 5, 7]
+Jósolt legjobb eredmény: 2755.9881291467577
+Rng 5%: 2618.1887226894196 - 2893.787535604096
+
+Felhasznált pontok: 257
+Jósolt legjobb arány: [245, 5, 7]
+Jósolt legjobb eredmény: 2763.777563390042
+Rng 5%: 2625.58868522054 - 2901.966441559544
+
+Felhasznált pontok: 258
+Jósolt legjobb arány: [246, 5, 7]
+Jósolt legjobb eredmény: 2771.563818911906
+Rng 5%: 2632.9856279663104 - 2910.1420098575013
+
+Felhasznált pontok: 259
+Jósolt legjobb arány: [247, 5, 7]
+Jósolt legjobb eredmény: 2779.3469099233344
+Rng 5%: 2640.3795644271677 - 2918.314255419501
+
+Felhasznált pontok: 260
+Jósolt legjobb arány: [248, 5, 7]
+Jósolt legjobb eredmény: 2787.126850514513
+Rng 5%: 2647.7705079887874 - 2926.483193040239
+
+Felhasznált pontok: 261
+Jósolt legjobb arány: [249, 5, 7]
+Jósolt legjobb eredmény: 2794.90365465634
+Rng 5%: 2655.158471923523 - 2934.6488373891575
+
+Felhasznált pontok: 262
+Jósolt legjobb arány: [250, 5, 7]
+Jósolt legjobb eredmény: 2802.6773362019076
+Rng 5%: 2662.543469391812 - 2942.8112030120033
+
+Felhasznált pontok: 263
+Jósolt legjobb arány: [251, 5, 7]
+Jósolt legjobb eredmény: 2810.4479088879657
+Rng 5%: 2669.925513443567 - 2950.9703043323643
+
+Felhasznált pontok: 264
+Jósolt legjobb arány: [252, 5, 7]
+Jósolt legjobb eredmény: 2818.2153863363565
+Rng 5%: 2677.3046170195385 - 2959.1261556531745
+
+Felhasznált pontok: 265
+Jósolt legjobb arány: [253, 5, 7]
+Jósolt legjobb eredmény: 2825.9797820554286
+Rng 5%: 2684.680792952657 - 2967.2787711582
+
+Felhasznált pontok: 266
+Jósolt legjobb arány: [254, 5, 7]
+Jósolt legjobb eredmény: 2833.7411094414274
+Rng 5%: 2692.054053969356 - 2975.4281649134987
+
+Felhasznált pontok: 267
+Jósolt legjobb arány: [255, 5, 7]
+Jósolt legjobb eredmény: 2841.499381779863
+Rng 5%: 2699.4244126908698 - 2983.5743508688565
+
+Felhasznált pontok: 268
+Jósolt legjobb arány: [256, 5, 7]
+Jósolt legjobb eredmény: 2849.254612246856
+Rng 5%: 2706.791881634513 - 2991.717342859199
+
+Felhasznált pontok: 269
+Jósolt legjobb arány: [257, 5, 7]
+Jósolt legjobb eredmény: 2857.006813910462
+Rng 5%: 2714.1564732149386 - 2999.857154605985
+
+Felhasznált pontok: 270
+Jósolt legjobb arány: [258, 5, 7]
+Jósolt legjobb eredmény: 2864.7559997319736
+Rng 5%: 2721.5181997453747 - 3007.9937997185725
+
+Felhasznált pontok: 271
+Jósolt legjobb arány: [259, 5, 7]
+Jósolt legjobb eredmény: 2872.5021825672065
+Rng 5%: 2728.8770734388463 - 3016.127291695567
+
+Felhasznált pontok: 272
+Jósolt legjobb arány: [260, 5, 7]
+Jósolt legjobb eredmény: 2880.245375167757
+Rng 5%: 2736.233106409369 - 3024.257643926145
+
+Felhasznált pontok: 273
+Jósolt legjobb arány: [261, 5, 7]
+Jósolt legjobb eredmény: 2887.9855901822493
+Rng 5%: 2743.5863106731367 - 3032.384869691362
+
+Felhasznált pontok: 274
+Jósolt legjobb arány: [262, 5, 7]
+Jósolt legjobb eredmény: 2895.722840157553
+Rng 5%: 2750.936698149675 - 3040.508982165431
+
+Felhasznált pontok: 275
+Jósolt legjobb arány: [263, 5, 7]
+Jósolt legjobb eredmény: 2903.4571375399914
+Rng 5%: 2758.284280662992 - 3048.629994416991
+
+Felhasznált pontok: 276
+Jósolt legjobb arány: [264, 5, 7]
+Jósolt legjobb eredmény: 2911.188494676525
+Rng 5%: 2765.6290699426986 - 3056.747919410351
+
+Felhasznált pontok: 277
+Jósolt legjobb arány: [265, 5, 7]
+Jósolt legjobb eredmény: 2918.916923815916
+Rng 5%: 2772.97107762512 - 3064.8627700067123
+
+Felhasznált pontok: 278
+Jósolt legjobb arány: [266, 5, 7]
+Jósolt legjobb eredmény: 2926.642437109881
+Rng 5%: 2780.3103152543868 - 3072.9745589653753
+
+Felhasznált pontok: 279
+Jósolt legjobb arány: [267, 5, 7]
+Jósolt legjobb eredmény: 2934.365046614217
+Rng 5%: 2787.646794283506 - 3081.083298944928
+
+Felhasznált pontok: 280
+Jósolt legjobb arány: [268, 5, 7]
+Jósolt legjobb eredmény: 2942.084764289919
+Rng 5%: 2794.980526075423 - 3089.189002504415
+
+Felhasznált pontok: 281
+Jósolt legjobb arány: [269, 5, 7]
+Jósolt legjobb eredmény: 2949.8016020042733
+Rng 5%: 2802.3115219040596 - 3097.291682104487
+
+Felhasznált pontok: 282
+Jósolt legjobb arány: [270, 5, 7]
+Jósolt legjobb eredmény: 2957.5155715319397
+Rng 5%: 2809.6397929553427 - 3105.3913501085367
+
+Felhasznált pontok: 283
+Jósolt legjobb arány: [271, 5, 7]
+Jósolt legjobb eredmény: 2965.226684556012
+Rng 5%: 2816.965350328211 - 3113.488018783813
+
+Felhasznált pontok: 284
+Jósolt legjobb arány: [272, 5, 7]
+Jósolt legjobb eredmény: 2972.934952669069
+Rng 5%: 2824.288205035615 - 3121.5817003025227
+
+Felhasznált pontok: 285
+Jósolt legjobb arány: [273, 5, 7]
+Jósolt legjobb eredmény: 2980.640387374203
+Rng 5%: 2831.6083680054926 - 3129.672406742913
+
+Felhasznált pontok: 286
+Jósolt legjobb arány: [274, 5, 7]
+Jósolt legjobb eredmény: 2988.3430000860353
+Rng 5%: 2838.9258500817336 - 3137.760150090337
+
+Felhasznált pontok: 287
+Jósolt legjobb arány: [275, 5, 7]
+Jósolt legjobb eredmény: 2996.04280213172
+Rng 5%: 2846.2406620251336 - 3145.844942238306
+
+Felhasznált pontok: 288
+Jósolt legjobb arány: [276, 5, 7]
+Jósolt legjobb eredmény: 3003.7398047519273
+Rng 5%: 2853.5528145143307 - 3153.926794989524
+
+Felhasznált pontok: 289
+Jósolt legjobb arány: [277, 5, 7]
+Jósolt legjobb eredmény: 3011.434019101816
+Rng 5%: 2860.862318146725 - 3162.0057200569067
+
+Felhasznált pontok: 290
+Jósolt legjobb arány: [278, 5, 7]
+Jósolt legjobb eredmény: 3019.1254562519885
+Rng 5%: 2868.1691834393887 - 3170.081729064588
+
+Felhasznált pontok: 291
+Jósolt legjobb arány: [279, 5, 7]
+Jósolt legjobb eredmény: 3026.814127189437
+Rng 5%: 2875.473420829965 - 3178.1548335489088
+
+Felhasznált pontok: 292
+Jósolt legjobb arány: [280, 5, 7]
+Jósolt legjobb eredmény: 3034.5000428184685
+Rng 5%: 2882.775040677545 - 3186.225044959392
+
+Felhasznált pontok: 293
+Jósolt legjobb arány: [281, 5, 7]
+Jósolt legjobb eredmény: 3042.183213961622
+Rng 5%: 2890.074053263541 - 3194.2923746597035
+
+Felhasznált pontok: 294
+Jósolt legjobb arány: [282, 5, 7]
+Jósolt legjobb eredmény: 3049.863651360571
+Rng 5%: 2897.3704687925424 - 3202.3568339286
+
+Felhasznált pontok: 295
+Jósolt legjobb arány: [283, 5, 7]
+Jósolt legjobb eredmény: 3057.541365677011
+Rng 5%: 2904.6642973931603 - 3210.418433960862
+
+Felhasznált pontok: 296
+Jósolt legjobb arány: [284, 5, 7]
+Jósolt legjobb eredmény: 3065.216367493536
+Rng 5%: 2911.955549118859 - 3218.477185868213
+
+Felhasznált pontok: 297
+Jósolt legjobb arány: [285, 5, 7]
+Jósolt legjobb eredmény: 3072.888667314501
+Rng 5%: 2919.244233948776 - 3226.533100680226
+
+Felhasznált pontok: 298
+Jósolt legjobb arány: [286, 5, 7]
+Jósolt legjobb eredmény: 3080.558275566875
+Rng 5%: 2926.530361788531 - 3234.5861893452193
+
+Felhasznált pontok: 299
+Jósolt legjobb arány: [287, 5, 7]
+Jósolt legjobb eredmény: 3088.225202601077
+Rng 5%: 2933.813942471023 - 3242.636462731131
+
+Felhasznált pontok: 300
+Jósolt legjobb arány: [288, 5, 7]
+Jósolt legjobb eredmény: 3095.8894586918045
+Rng 5%: 2941.094985757214 - 3250.683931626395
+
+Felhasznált pontok: 301
+Jósolt legjobb arány: [289, 5, 7]
+Jósolt legjobb eredmény: 3103.5510540388486
+Rng 5%: 2948.373501336906 - 3258.7286067407913
+
+Felhasznált pontok: 302
+Jósolt legjobb arány: [290, 5, 7]
+Jósolt legjobb eredmény: 3111.2099987678953
+Rng 5%: 2955.6494988295003 - 3266.7704987062903
+
+Felhasznált pontok: 303
+Jósolt legjobb arány: [291, 5, 7]
+Jósolt legjobb eredmény: 3118.8663029313198
+Rng 5%: 2962.922987784754 - 3274.8096180778857
+
+Felhasznált pontok: 304
+Jósolt legjobb arány: [292, 5, 7]
+Jósolt legjobb eredmény: 3126.5199765089656
+Rng 5%: 2970.193977683517 - 3282.845975334414
+
+Felhasznált pontok: 305
+Jósolt legjobb arány: [292, 5, 8]
+Jósolt legjobb eredmény: 3134.1712779694144
+Rng 5%: 2977.4627140709435 - 3290.8798418678853
+
+Felhasznált pontok: 306
+Jósolt legjobb arány: [293, 5, 8]
+Jósolt legjobb eredmény: 3141.822330869365
+Rng 5%: 2984.7312143258964 - 3298.9134474128336
+
+Felhasznált pontok: 307
+Jósolt legjobb arány: [294, 5, 8]
+Jósolt legjobb eredmény: 3149.4707729287015
+Rng 5%: 2991.997234282266 - 3306.944311575137
+
+Felhasznált pontok: 308
+Jósolt legjobb arány: [295, 5, 8]
+Jósolt legjobb eredmény: 3157.116613914252
+Rng 5%: 2999.260783218539 - 3314.972444609965
+
+Felhasznált pontok: 309
+Jósolt legjobb arány: [296, 5, 8]
+Jósolt legjobb eredmény: 3164.759863523329
+Rng 5%: 3006.5218703471623 - 3322.9978566994955
+
+Felhasznált pontok: 310
+Jósolt legjobb arány: [297, 5, 8]
+Jósolt legjobb eredmény: 3172.400531384458
+Rng 5%: 3013.780504815235 - 3331.0205579536814
+
+Felhasznált pontok: 311
+Jósolt legjobb arány: [298, 5, 8]
+Jósolt legjobb eredmény: 3180.038627058095
+Rng 5%: 3021.0366957051897 - 3339.040558411
+
+Felhasznált pontok: 312
+Jósolt legjobb arány: [299, 5, 8]
+Jósolt legjobb eredmény: 3187.6741600373343
+Rng 5%: 3028.2904520354673 - 3347.0578680392014
+
+Felhasznált pontok: 313
+Jósolt legjobb arány: [300, 5, 8]
+Jósolt legjobb eredmény: 3195.3071397486083
+Rng 5%: 3035.5417827611777 - 3355.072496736039
+
+Felhasznált pontok: 314
+Jósolt legjobb arány: [301, 5, 8]
+Jósolt legjobb eredmény: 3202.937575552373
+Rng 5%: 3042.790696774754 - 3363.084454329992
+
+Felhasznált pontok: 315
+Jósolt legjobb arány: [302, 5, 8]
+Jósolt legjobb eredmény: 3210.5654767437914
+Rng 5%: 3050.0372029066016 - 3371.093750580981
+
+Felhasznált pontok: 316
+Jósolt legjobb arány: [303, 5, 8]
+Jósolt legjobb eredmény: 3218.1908525533995
+Rng 5%: 3057.2813099257296 - 3379.1003951810694
+
+Felhasznált pontok: 317
+Jósolt legjobb arány: [304, 5, 8]
+Jósolt legjobb eredmény: 3225.8137121477725
+Rng 5%: 3064.523026540384 - 3387.1043977551612
+
+Felhasznált pontok: 318
+Jósolt legjobb arány: [305, 5, 8]
+Jósolt legjobb eredmény: 3233.4340646301707
+Rng 5%: 3071.762361398662 - 3395.1057678616794
+
+Felhasznált pontok: 319
+Jósolt legjobb arány: [306, 5, 8]
+Jósolt legjobb eredmény: 3241.051919041188
+Rng 5%: 3078.999323089128 - 3403.1045149932474
+
+Felhasznált pontok: 320
+Jósolt legjobb arány: [307, 5, 8]
+Jósolt legjobb eredmény: 3248.667284359384
+Rng 5%: 3086.2339201414147 - 3411.1006485773537
+
+Felhasznált pontok: 321
+Jósolt legjobb arány: [308, 5, 8]
+Jósolt legjobb eredmény: 3256.280169501913
+Rng 5%: 3093.466161026817 - 3419.0941779770087
+
+Felhasznált pontok: 322
+Jósolt legjobb arány: [309, 5, 8]
+Jósolt legjobb eredmény: 3263.8905833251365
+Rng 5%: 3100.6960541588796 - 3427.0851124913934
+
+Felhasznált pontok: 323
+Jósolt legjobb arány: [310, 5, 8]
+Jósolt legjobb eredmény: 3271.49853462524
+Rng 5%: 3107.923607893978 - 3435.0734613565023
+
+Felhasznált pontok: 324
+Jósolt legjobb arány: [311, 5, 8]
+Jósolt legjobb eredmény: 3279.1040321388305
+Rng 5%: 3115.148830531889 - 3443.059233745772
+
+Felhasznált pontok: 325
+Jósolt legjobb arány: [312, 5, 8]
+Jósolt legjobb eredmény: 3286.7070845435287
+Rng 5%: 3122.371730316352 - 3451.0424387707053
+
+Felhasznált pontok: 326
+Jósolt legjobb arány: [313, 5, 8]
+Jósolt legjobb eredmény: 3294.3077004585602
+Rng 5%: 3129.592315435632 - 3459.0230854814886
+
+Felhasznált pontok: 327
+Jósolt legjobb arány: [314, 5, 8]
+Jósolt legjobb eredmény: 3301.9058884453293
+Rng 5%: 3136.8105940230625 - 3467.001182867596
+
+Felhasznált pontok: 328
+Jósolt legjobb arány: [315, 5, 8]
+Jósolt legjobb eredmény: 3309.501657007992
+Rng 5%: 3144.026574157592 - 3474.9767398583917
+
+Felhasznált pontok: 329
+Jósolt legjobb arány: [316, 5, 8]
+Jósolt legjobb eredmény: 3317.0950145940183
+Rng 5%: 3151.240263864317 - 3482.9497653237195
+
+Felhasznált pontok: 330
+Jósolt legjobb arány: [317, 5, 8]
+Jósolt legjobb eredmény: 3324.6859695947483
+Rng 5%: 3158.451671115011 - 3490.9202680744856
+
+Felhasznált pontok: 331
+Jósolt legjobb arány: [317, 6, 8]
+Jósolt legjobb eredmény: 3332.2766757742424
+Rng 5%: 3165.66284198553 - 3498.890509562955
+
+Felhasznált pontok: 332
+Jósolt legjobb arány: [318, 6, 8]
+Jósolt legjobb eredmény: 3339.865236525436
+Rng 5%: 3172.871974699164 - 3506.858498351708
+
+Felhasznált pontok: 333
+Jósolt legjobb arány: [319, 6, 8]
+Jósolt legjobb eredmény: 3347.451411307814
+Rng 5%: 3180.078840742423 - 3514.823981873205
+
+Felhasznált pontok: 334
+Jósolt legjobb arány: [320, 6, 8]
+Jósolt legjobb eredmény: 3355.035208347592
+Rng 5%: 3187.283447930212 - 3522.786968764972
+
+Felhasznált pontok: 335
+Jósolt legjobb arány: [321, 6, 8]
+Jósolt legjobb eredmény: 3362.6166358170094
+Rng 5%: 3194.485804026159 - 3530.74746760786
+
+Felhasznált pontok: 336
+Jósolt legjobb arány: [322, 6, 8]
+Jósolt legjobb eredmény: 3370.1957018348526
+Rng 5%: 3201.68591674311 - 3538.7054869265953
+
+Felhasznált pontok: 337
+Jósolt legjobb arány: [323, 6, 8]
+Jósolt legjobb eredmény: 3377.7724144669646
+Rng 5%: 3208.883793743616 - 3546.661035190313
+
+Felhasznált pontok: 338
+Jósolt legjobb arány: [324, 6, 8]
+Jósolt legjobb eredmény: 3385.346781726757
+Rng 5%: 3216.079442640419 - 3554.614120813095
+
+Felhasznált pontok: 339
+Jósolt legjobb arány: [325, 6, 8]
+Jósolt legjobb eredmény: 3392.9188115757097
+Rng 5%: 3223.272870996924 - 3562.564752154495
+
+Felhasznált pontok: 340
+Jósolt legjobb arány: [326, 6, 8]
+Jósolt legjobb eredmény: 3400.488511923868
+Rng 5%: 3230.4640863276745 - 3570.5129375200613
+
+Felhasznált pontok: 341
+Jósolt legjobb arány: [327, 6, 8]
+Jósolt legjobb eredmény: 3408.05589063033
+Rng 5%: 3237.6530960988134 - 3578.4586851618465
+
+Felhasznált pontok: 342
+Jósolt legjobb arány: [328, 6, 8]
+Jósolt legjobb eredmény: 3415.6209555037294
+Rng 5%: 3244.8399077285426 - 3586.4020032789163
+
+Felhasznált pontok: 343
+Jósolt legjobb arány: [329, 6, 8]
+Jósolt legjobb eredmény: 3423.1837143027137
+Rng 5%: 3252.024528587578 - 3594.3429000178494
+
+Felhasznált pontok: 344
+Jósolt legjobb arány: [330, 6, 8]
+Jósolt legjobb eredmény: 3430.744174736414
+Rng 5%: 3259.206965999593 - 3602.281383473235
+
+Felhasznált pontok: 345
+Jósolt legjobb arány: [331, 6, 8]
+Jósolt legjobb eredmény: 3438.3023444649116
+Rng 5%: 3266.3872272416656 - 3610.2174616881575
+
+Felhasznált pontok: 346
+Jósolt legjobb arány: [332, 6, 8]
+Jósolt legjobb eredmény: 3445.8582310996944
+Rng 5%: 3273.5653195447094 - 3618.1511426546795
+
+Felhasznált pontok: 347
+Jósolt legjobb arány: [333, 6, 8]
+Jósolt legjobb eredmény: 3453.411842204114
+Rng 5%: 3280.741250093908 - 3626.0824343143195
+
+Felhasznált pontok: 348
+Jósolt legjobb arány: [334, 6, 8]
+Jósolt legjobb eredmény: 3460.9631852938305
+Rng 5%: 3287.915026029139 - 3634.011344558522
+
+Felhasznált pontok: 349
+Jósolt legjobb arány: [335, 6, 8]
+Jósolt legjobb eredmény: 3468.5122678372586
+Rng 5%: 3295.0866544453957 - 3641.9378812291216
+
+Felhasznált pontok: 350
+Jósolt legjobb arány: [336, 6, 8]
+Jósolt legjobb eredmény: 3476.059097256001
+Rng 5%: 3302.256142393201 - 3649.8620521188013
+
+Felhasznált pontok: 351
+Jósolt legjobb arány: [337, 6, 8]
+Jósolt legjobb eredmény: 3483.6036809252846
+Rng 5%: 3309.42349687902 - 3657.783864971549
+
+Felhasznált pontok: 352
+Jósolt legjobb arány: [338, 6, 8]
+Jósolt legjobb eredmény: 3491.146026174382
+Rng 5%: 3316.5887248656627 - 3665.703327483101
+
+Felhasznált pontok: 353
+Jósolt legjobb arány: [339, 6, 8]
+Jósolt legjobb eredmény: 3498.6861402870354
+Rng 5%: 3323.7518332726836 - 3673.6204473013872
+
+Felhasznált pontok: 354
+Jósolt legjobb arány: [340, 6, 8]
+Jósolt legjobb eredmény: 3506.224030501875
+Rng 5%: 3330.912828976781 - 3681.535232026969
+
+Felhasznált pontok: 355
+Jósolt legjobb arány: [341, 6, 8]
+Jósolt legjobb eredmény: 3513.759704012827
+Rng 5%: 3338.0717188121857 - 3689.4476892134685
+
+Felhasznált pontok: 356
+Jósolt legjobb arány: [342, 6, 8]
+Jósolt legjobb eredmény: 3521.2931679695216
+Rng 5%: 3345.2285095710454 - 3697.357826367998
+
+Felhasznált pontok: 357
+Jósolt legjobb arány: [343, 6, 8]
+Jósolt legjobb eredmény: 3528.824429477693
+Rng 5%: 3352.383208003808 - 3705.2656509515778
+
+Felhasznált pontok: 358
+Jósolt legjobb arány: [344, 6, 8]
+Jósolt legjobb eredmény: 3536.3534955995774
+Rng 5%: 3359.5358208195985 - 3713.1711703795563
+
+Felhasznált pontok: 359
+Jósolt legjobb arány: [345, 6, 8]
+Jósolt legjobb eredmény: 3543.880373354306
+Rng 5%: 3366.6863546865907 - 3721.074392022021
+
+Felhasznált pontok: 360
+Jósolt legjobb arány: [346, 6, 8]
+Jósolt legjobb eredmény: 3551.405069718289
+Rng 5%: 3373.834816232374 - 3728.9753232042035
+
+Felhasznált pontok: 361
+Jósolt legjobb arány: [347, 6, 8]
+Jósolt legjobb eredmény: 3558.927591625601
+Rng 5%: 3380.9812120443207 - 3736.8739712068814
+
+Felhasznált pontok: 362
+Jósolt legjobb arány: [348, 6, 8]
+Jósolt legjobb eredmény: 3566.4479459683585
+Rng 5%: 3388.1255486699406 - 3744.7703432667763
+
+Felhasznált pontok: 363
+Jósolt legjobb arány: [349, 6, 8]
+Jósolt legjobb eredmény: 3573.9661395970934
+Rng 5%: 3395.2678326172386 - 3752.664446576948
+
+Felhasznált pontok: 364
+Jósolt legjobb arány: [350, 6, 8]
+Jósolt legjobb eredmény: 3581.4821793211213
+Rng 5%: 3402.408070355065 - 3760.5562882871777
+
+Felhasznált pontok: 365
+Jósolt legjobb arány: [351, 6, 8]
+Jósolt legjobb eredmény: 3588.996071908909
+Rng 5%: 3409.5462683134633 - 3768.4458755043547
+
+Felhasznált pontok: 366
+Jósolt legjobb arány: [352, 6, 8]
+Jósolt legjobb eredmény: 3596.507824088434
+Rng 5%: 3416.682432884012 - 3776.333215292856
+
+Felhasznált pontok: 367
+Jósolt legjobb arány: [353, 6, 8]
+Jósolt legjobb eredmény: 3604.0174425475393
+Rng 5%: 3423.816570420162 - 3784.2183146749167
+
+Felhasznált pontok: 368
+Jósolt legjobb arány: [354, 6, 8]
+Jósolt legjobb eredmény: 3611.524933934288
+Rng 5%: 3430.9486872375737 - 3792.1011806310025
+
+Felhasznált pontok: 369
+Jósolt legjobb arány: [355, 6, 8]
+Jósolt legjobb eredmény: 3619.0303048573114
+Rng 5%: 3438.0787896144457 - 3799.981820100177
+
+Felhasznált pontok: 370
+Jósolt legjobb arány: [356, 6, 8]
+Jósolt legjobb eredmény: 3626.5335618861527
+Rng 5%: 3445.206883791845 - 3807.8602399804604
+
+Felhasznált pontok: 371
+Jósolt legjobb arány: [357, 6, 8]
+Jósolt legjobb eredmény: 3634.0347115516074
+Rng 5%: 3452.332975974027 - 3815.736447129188
+
+Felhasznált pontok: 372
+Jósolt legjobb arány: [358, 6, 8]
+Jósolt legjobb eredmény: 3641.5337603460594
+Rng 5%: 3459.457072328756 - 3823.6104483633626
+
+Felhasznált pontok: 373
+Jósolt legjobb arány: [359, 6, 8]
+Jósolt legjobb eredmény: 3649.030714723814
+Rng 5%: 3466.579178987623 - 3831.482250460005
+
+Felhasznált pontok: 374
+Jósolt legjobb arány: [360, 6, 8]
+Jósolt legjobb eredmény: 3656.5255811014276
+Rng 5%: 3473.699302046356 - 3839.3518601564992
+
+Felhasznált pontok: 375
+Jósolt legjobb arány: [361, 6, 8]
+Jósolt legjobb eredmény: 3664.0183658580304
+Rng 5%: 3480.8174475651285 - 3847.2192841509323
+
+Felhasznált pontok: 376
+Jósolt legjobb arány: [362, 6, 8]
+Jósolt legjobb eredmény: 3671.5090753356503
+Rng 5%: 3487.9336215688677 - 3855.084529102433
+
+Felhasznált pontok: 377
+Jósolt legjobb arány: [363, 6, 8]
+Jósolt legjobb eredmény: 3678.997715839528
+Rng 5%: 3495.0478300475515 - 3862.9476016315048
+
+Felhasznált pontok: 378
+Jósolt legjobb arány: [364, 6, 8]
+Jósolt legjobb eredmény: 3686.4842936384343
+Rng 5%: 3502.1600789565123 - 3870.8085083203564
+
+Felhasznált pontok: 379
+Jósolt legjobb arány: [365, 6, 8]
+Jósolt legjobb eredmény: 3693.968814964977
+Rng 5%: 3509.2703742167278 - 3878.667255713226
+
+Felhasznált pontok: 380
+Jósolt legjobb arány: [366, 6, 8]
+Jósolt legjobb eredmény: 3701.4512860159107
+Rng 5%: 3516.378721715115 - 3886.5238503167066
+
+Felhasznált pontok: 381
+Jósolt legjobb arány: [367, 6, 8]
+Jósolt legjobb eredmény: 3708.93171295244
+Rng 5%: 3523.485127304818 - 3894.3782986000624
+
+Felhasznált pontok: 382
+Jósolt legjobb arány: [368, 6, 8]
+Jósolt legjobb eredmény: 3716.410101900519
+Rng 5%: 3530.589596805493 - 3902.230606995545
+
+Felhasznált pontok: 383
+Jósolt legjobb arány: [369, 6, 8]
+Jósolt legjobb eredmény: 3723.8864589511472
+Rng 5%: 3537.69213600359 - 3910.0807818987046
+
+Felhasznált pontok: 384
+Jósolt legjobb arány: [370, 6, 8]
+Jósolt legjobb eredmény: 3731.3607901606665
+Rng 5%: 3544.792750652633 - 3917.9288296687
+
+Felhasznált pontok: 385
+Jósolt legjobb arány: [371, 6, 8]
+Jósolt legjobb eredmény: 3738.8331015510494
+Rng 5%: 3551.8914464734967 - 3925.774756628602
+
+Felhasznált pontok: 386
+Jósolt legjobb arány: [372, 6, 8]
+Jósolt legjobb eredmény: 3746.3033991101843
+Rng 5%: 3558.988229154675 - 3933.6185690656935
+
+Felhasznált pontok: 387
+Jósolt legjobb arány: [373, 6, 8]
+Jósolt legjobb eredmény: 3753.7716887921624
+Rng 5%: 3566.083104352554 - 3941.4602732317708
+
+Felhasznált pontok: 388
+Jósolt legjobb arány: [374, 6, 8]
+Jósolt legjobb eredmény: 3761.237976517559
+Rng 5%: 3573.1760776916813 - 3949.299875343437
+
+Felhasznált pontok: 389
+Jósolt legjobb arány: [375, 6, 8]
+Jósolt legjobb eredmény: 3768.7022681737076
+Rng 5%: 3580.267154765022 - 3957.137381582393
+
+Felhasznált pontok: 390
+Jósolt legjobb arány: [376, 6, 8]
+Jósolt legjobb eredmény: 3776.1645696149785
+Rng 5%: 3587.3563411342293 - 3964.9727980957277
+
+Felhasznált pontok: 391
+Jósolt legjobb arány: [377, 6, 8]
+Jósolt legjobb eredmény: 3783.624886663048
+Rng 5%: 3594.4436423298953 - 3972.806130996201
+
+Felhasznált pontok: 392
+Jósolt legjobb arány: [378, 6, 8]
+Jósolt legjobb eredmény: 3791.0832251071693
+Rng 5%: 3601.5290638518104 - 3980.637386362528
+
+Felhasznált pontok: 393
+Jósolt legjobb arány: [379, 6, 8]
+Jósolt legjobb eredmény: 3798.5395907044353
+Rng 5%: 3608.6126111692133 - 3988.4665702396574
+
+Felhasznált pontok: 394
+Jósolt legjobb arány: [380, 6, 8]
+Jósolt legjobb eredmény: 3805.9939891800454
+Rng 5%: 3615.694289721043 - 3996.293688639048
+
+Felhasznált pontok: 395
+Jósolt legjobb arány: [381, 6, 8]
+Jósolt legjobb eredmény: 3813.446426227563
+Rng 5%: 3622.7741049161846 - 4004.118747538941
+
+Felhasznált pontok: 396
+Jósolt legjobb arány: [382, 6, 8]
+Jósolt legjobb eredmény: 3820.8969075091736
+Rng 5%: 3629.8520621337148 - 4011.9417528846325
+
+Felhasznált pontok: 397
+Jósolt legjobb arány: [383, 6, 8]
+Jósolt legjobb eredmény: 3828.34543865594
+Rng 5%: 3636.928166723143 - 4019.7627105887373
+
+Felhasznált pontok: 398
+Jósolt legjobb arány: [384, 6, 8]
+Jósolt legjobb eredmény: 3835.7920252680537
+Rng 5%: 3644.002424004651 - 4027.5816265314565
+
+Felhasznált pontok: 399
+Jósolt legjobb arány: [385, 6, 8]
+Jósolt legjobb eredmény: 3843.236672915082
+Rng 5%: 3651.074839269328 - 4035.3985065608363
+
+Felhasznált pontok: 400
+Jósolt legjobb arány: [386, 6, 8]
+Jósolt legjobb eredmény: 3850.6793871362197
+Rng 5%: 3658.1454177794085 - 4043.213356493031
+
